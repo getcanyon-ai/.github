@@ -32,12 +32,12 @@ Blocked: the agent built SQL from the request. · Passed: after the agent's one-
 
 <p>
   <a href="https://www.getcanyon.ai/docs/start/take-the-tour/"><img src="https://img.shields.io/badge/Try%20it%20on%20your%20laptop-5865F2?style=for-the-badge" alt="Try it on your laptop"></a>
-  <a href="https://www.getcanyon.ai/docs/self-host/helm/"><img src="https://img.shields.io/badge/Run%20it%20for%20your%20team-5865F2?style=for-the-badge" alt="Run it for your team"></a>
+  <a href="https://www.getcanyon.ai/docs/self-host/kubernetes/"><img src="https://img.shields.io/badge/Run%20it%20for%20your%20team-5865F2?style=for-the-badge" alt="Run it for your team"></a>
   <a href="https://github.com/getcanyon-ai/canyon/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contribute-5865F2?style=for-the-badge" alt="Contribute"></a>
 </p>
 
 - **Try it on your laptop.** Paste one prompt into Claude Code, Codex or Cursor. It starts a demo Canyon and walks you through a blocked deploy, the fix, and production. → https://www.getcanyon.ai/docs/start/take-the-tour/
-- **Run it for your team.** Install Canyon on your Kubernetes with Helm, sign-in included. → https://www.getcanyon.ai/docs/self-host/helm/
+- **Run it for your team.** Install Canyon on your own Kubernetes, with your team's sign-in. → https://www.getcanyon.ai/docs/self-host/kubernetes/
 - **Contribute.** Read CONTRIBUTING, then pick an open issue. → https://github.com/getcanyon-ai/canyon/blob/main/CONTRIBUTING.md
 
 <sub>The core is AGPL-3.0, the CLI and contracts are Apache-2.0, and ee/ is under the Elastic License 2.0. Report security issues privately through the repository's Security tab.</sub>
